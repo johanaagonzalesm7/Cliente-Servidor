@@ -1,16 +1,16 @@
 # Programación Orientada a Objetos
 
 ## Integrantes del equipo:
-Johana Alejandra Gonzalez Macias
-Reina Yamile Calzada Campos
-Donaldo Ramsses Hinojosa Mesa
+* Johana Alejandra Gonzalez Macias
+* Reina Yamile Calzada Campos
+* Donaldo Ramsses Hinojosa Mesa
 
 ## Unidad 4: 
 
 ## Objetivo de la Practica:
-- * Trabajar con arreglos o diccionarios. *
-- * Conocer la arquitectura Cliente-Servidor. *
-- * Conocer los JSO *
+- * Trabajar con arreglos o diccionarios. 
+- * Conocer la arquitectura Cliente-Servidor. 
+- * Conocer los JSO.
 
 ## ¿Que ventajas y desventajas tiene trabajar con dirrionarios?
 
